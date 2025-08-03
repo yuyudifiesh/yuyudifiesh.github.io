@@ -48,13 +48,16 @@
         @apply rounded-xl border border-gray-100 overflow-hidden bg-white/90 backdrop-blur-sm;
       }
       /* 背景图样式 */
-      .fixed-bg {
+      html {
+        height: 100%;
+      }
+      body {
+        min-height: 100%;
         background-image: url('https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
         background-repeat: no-repeat;
-        min-height: 100vh;
       }
       /* Follow按钮动画 */
       .follow-btn {
