@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Yuyudifiesh"
-  text: " (￣y▽,￣)╭"
-  tagline: "一名高三学生，历史 + 政治 + 地理，超纯正的文科生"
+  text: "~(＾◇^)/"
+  tagline: "一名高三学生，喜欢探索"
   actions:
     - theme: brand
       text: Github

@@ -41,5 +41,10 @@ features:
     details: 使用Github API制作的Github仓库Star用户查询工具，帮助用户查看谁收藏了自己的仓库。
     link: https://yuyudifiesh.github.io/github-star-search
     linkText: 查看网站
+  - icon: 📦
+    title: kuru-vitepress-vue
+    details: 为 Vitepress 编写的组件库。
+    link: https://github.com/yuyudifiesh/kuru-vitepress-vue
+    linkText: 查看项目
 ---
 
