@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '项目', link: '/projects' },
+      { text: '朋友们', link: '/friends' },
       { text: '关于我', link: '/about' },
     ],
 
