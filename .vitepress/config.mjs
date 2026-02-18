@@ -1,16 +1,22 @@
 import { defineConfig } from 'vitepress'
+import timelinePlugin from 'vitepress-markdown-timeline'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Yuyudifiesh",
   base: '/',
   description: "Yuyudifiesh 的个人主页",
+  markdown: {
+    config: (md) => {
+      md.use(timelinePlugin)
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
       { text: '项目', link: '/projects' },
-      { text: '朋友们', link: '/friends' },
+      { text: '笔记', link: '/notes' },
       { text: '关于我', link: '/about' },
     ],
 
