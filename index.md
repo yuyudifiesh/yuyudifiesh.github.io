@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Yuyudifiesh"
   text: "~(＾◇^)/"
-  tagline: "一名高三学生，喜欢探索"
+  tagline: "05 后，学生，喜欢探索"
   actions:
     - theme: brand
       text: Github

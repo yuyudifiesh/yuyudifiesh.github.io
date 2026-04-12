@@ -51,5 +51,9 @@ features:
     details: 为希沃 windows7 系统和低性能的一体机提供的便携授课文件查看和处理工具。
     link: https://yuyudifiesh.github.io/seewo-fasttools/
     linkText: 查看网站
+  - icon: 🧐
+    title: Fastdev for JS
+    details: 一些 JS 的代码片段，帮助您提高开发效率。
+    link: https://yuyudifiesh.github.io/fastdev-html/
+    linkText: 查看网站
 ---
-

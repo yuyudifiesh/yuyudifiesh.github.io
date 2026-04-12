@@ -30,6 +30,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/yuyudifiesh' },
+      { icon: 'gitee', link: 'https://github.com/yuyudifiesh' },
       { icon: 'npm', link: 'https://www.npmjs.com/~yuyudifiesh' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/514522120' },
     ]

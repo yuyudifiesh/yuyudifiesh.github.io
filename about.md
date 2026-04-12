@@ -1,7 +1,6 @@
 # ヽ(*≧ω≦)ﾉ
 你好，我是 yuyudifiesh 👋
 
-一名高三学生，历史 + 政治 + 地理，超纯正的文科生 (￣y▽,￣)╭
 
 <Badge type="info" text="ISFP" /> <Badge type="info" text="05后" /> <Badge type="info" text="历政地" />
 
