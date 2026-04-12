@@ -32,6 +32,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/yuyudifiesh' },
       { icon: 'gitee', link: 'https://gitee.com/yizhixianyuuuu' },
       { icon: 'npm', link: 'https://www.npmjs.com/~yuyudifiesh' },
+      { icon: 'tiktok', link: 'https://v.douyin.com/oZjfLCdpRcs' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/514522120' },
     ]
   }
