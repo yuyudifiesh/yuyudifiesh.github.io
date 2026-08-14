@@ -8,7 +8,7 @@ hero:
 features:
   - icon: 📖
     title: corli
-    details: 架空世界观和故事集，创造了一个充满想象力的虚构世界。
+    details: 架空世界观和故事。
     link: https://yuyudifiesh.github.io/corli
     linkText: 查看网站
   - icon: 📤
@@ -38,7 +38,7 @@ features:
     linkText: 查看项目
   - icon: 🔍
     title: github-star-search
-    details: 使用Github API制作的Github仓库Star用户查询工具，帮助用户查看谁收藏了自己的仓库。
+    details: 使用 Github API 制作的 Github 仓库 Star 用户查询工具，帮助用户查看谁收藏了自己的仓库。
     link: https://yuyudifiesh.github.io/github-star-search
     linkText: 查看网站
   - icon: 📦
@@ -56,4 +56,19 @@ features:
     details: 一些 JS 的代码片段，帮助您提高开发效率。
     link: https://yuyudifiesh.github.io/fastdev-html/
     linkText: 查看网站
+  - icon: 🧩
+    title: Yuyupage
+    details: 一个简洁轻量的浏览器起始页扩展，使用原生 HTML 编写，提供美观实用的上网体验。
+    link: https://github.com/VilinkoStudio/yuyupage
+    linkText: 查看项目
+  - icon: 📌
+    title: PrintBoard
+    details: Vite + vue 项目，将瞬时的想法记录下来。
+    link: https://yuyudifiesh.github.io/light-note/
+    linkText: 查看网站
+  - icon: 🧩
+    title: Vina-Language-Support
+    details: 为 .vina 文件提供语法高亮支持。
+    link: https://github.com/VilinkoStudio/vina-language-support
+    linkText: 查看项目
 ---

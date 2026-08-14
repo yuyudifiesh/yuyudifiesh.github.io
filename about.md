@@ -2,12 +2,12 @@
 你好，我是 yuyudifiesh 👋
 
 
-<Badge type="info" text="ISFP" /> <Badge type="info" text="05后" /> <Badge type="info" text="历政地" />
+<Badge type="info" text="ISFP" /> <Badge type="info" text="05后" />
 
 ## 正在玩 ~
 实在是太好玩啦，墙裂推荐！！！！！
 
-<Badge type="info" text="明日方舟" /> <Badge type="info" text="明日方舟：终末地" />  <Badge type="info" text="Phigros" /> <Badge type="info" text="Minecraft" />
+<Badge type="info" text="明日方舟" /> <Badge type="info" text="明日方舟：终末地" />  <Badge type="info" text="Phigros" /> <Badge type="info" text="Minecraft" /> <Badge type="info" text="绝区零" />
 
 ## 技术栈
 
